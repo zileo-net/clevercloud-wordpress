@@ -4,7 +4,7 @@
 
 ## Requirements
 
-None. Except a [CleverCloud](https://www.clever-cloud.com/) account ;-)
+None. Except a CleverCloud account ;-)
 
 ## Initial deployment
 
